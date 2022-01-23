@@ -1,2 +1,0 @@
-# EvgeniaElistratova
-psets
